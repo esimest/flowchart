@@ -1,1 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2023-03-03T06:50:29.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" version="20.8.19" etag="-Lsk3eGa5gEtNUJmfwbU" type="github"><diagram name="第 1 页" id="i0Cr1k7bhnDWyCKXxBSy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-03T08:26:21.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="qpPN_jiDwG0M5hJsYaSc" version="20.8.19" type="github">
+  <diagram name="第 1 页" id="i0Cr1k7bhnDWyCKXxBSy">
+    <mxGraphModel dx="2021" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zjJNRu12N_4cVs1IYNii-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-1" target="zjJNRu12N_4cVs1IYNii-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-1" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;NewProxyCommand()&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="100" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-2" target="zjJNRu12N_4cVs1IYNii-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-2" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;opts.Run()&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-4" target="zjJNRu12N_4cVs1IYNii-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-4" target="zjJNRu12N_4cVs1IYNii-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-4" value="o.proxyServer = NewProxyServer(o)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="290" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-5" target="zjJNRu12N_4cVs1IYNii-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-5" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;opts.runLoop()&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-6" target="zjJNRu12N_4cVs1IYNii-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-6" target="zjJNRu12N_4cVs1IYNii-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-40" value="事件触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zjJNRu12N_4cVs1IYNii-29">
+          <mxGeometry x="0.1333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-6" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;o.proxyServer.Run()&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="470" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-7" target="zjJNRu12N_4cVs1IYNii-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-34" value="IPVS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zjJNRu12N_4cVs1IYNii-33">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-7" value="proxyMode" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="275" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-9" target="zjJNRu12N_4cVs1IYNii-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-9" value="ProxyServer.proxier=ipvs.NewProxier(...)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="290" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-10" target="zjJNRu12N_4cVs1IYNii-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-10" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;go s.Proxier.SyncLoop()&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="559.5" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-11" target="zjJNRu12N_4cVs1IYNii-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-11" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;proxier.syncRunner = async.NewBoundedFrequencyRunner(...)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-12" target="zjJNRu12N_4cVs1IYNii-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-39" value="定时执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zjJNRu12N_4cVs1IYNii-37">
+          <mxGeometry x="-0.7345" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-12" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;proxier.syncRunner.Loop(wait.NeverStop)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="650" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-15" target="zjJNRu12N_4cVs1IYNii-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-15" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;bfr.Loop()&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="480" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设置定时策略:&lt;br&gt;&amp;nbsp;&quot;ipvs sync params&quot; &lt;br&gt;ipFamily=IPv4 &lt;br&gt;&lt;font&gt;minSyncPeriod=&quot;0s&quot; &lt;br&gt;&lt;/font&gt;syncPeriod=&quot;15s&quot; &lt;br&gt;burstSyncs=2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="340" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-17" target="zjJNRu12N_4cVs1IYNii-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-46" value="添加新规则" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zjJNRu12N_4cVs1IYNii-43">
+          <mxGeometry x="0.0347" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-17" target="zjJNRu12N_4cVs1IYNii-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-47" value="删除旧规则" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zjJNRu12N_4cVs1IYNii-44">
+          <mxGeometry x="-0.0305" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-17" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;proxier.syncProxyRules()&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="717.5" y="584.5" width="155" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-18" target="zjJNRu12N_4cVs1IYNii-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-18" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;serviceConfig.RegisterEventHandler(s.Proxier)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="470" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-19" target="zjJNRu12N_4cVs1IYNii-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-19" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;go serviceConfig.Run(wait.NeverStop)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="560" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zjJNRu12N_4cVs1IYNii-20" target="zjJNRu12N_4cVs1IYNii-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-20" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;proxier.ipv4Proxier.OnServiceSynced()&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="650" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-41" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;proxier.ipvs.AddRealServer(appliedVirtualServer, newDest)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="585" width="380" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="zjJNRu12N_4cVs1IYNii-42" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;proxier.gracefuldeleteManager.GracefulDeleteRS(appliedVirtualServer, delDest)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="690" width="500" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
